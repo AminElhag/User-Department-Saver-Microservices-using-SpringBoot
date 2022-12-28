@@ -3,7 +3,7 @@
   simple microservice to save user and department on connect between user service and apartment service
 </p>
 <p align="center">
-![Screenshot_20221227_060317](https://user-images.githubusercontent.com/36175875/209828063-b26abd76-a22a-4345-af4b-c0c916b3153e.png)
+  <img src="https://user-images.githubusercontent.com/36175875/209828063-b26abd76-a22a-4345-af4b-c0c916b3153e.png" alt="Alt text" title="Optional title"
 </p>
 
 
